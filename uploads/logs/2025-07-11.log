@@ -1,0 +1,101 @@
+[11-Jul-2025 06:14:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 06:15:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 06:15:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 06:15:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:14:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:22:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:22:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:22:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:22:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:23:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:23:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:24:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:24:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:48:35 UTC] PHP Warning:  require_once(C:\laragon\www\Socialproof/vendor/autoload.php): Failed to open stream: No such file or directory in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:48:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:48:36 UTC] PHP Warning:  require_once(C:\laragon\www\Socialproof/vendor/autoload.php): Failed to open stream: No such file or directory in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 09:48:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\Socialproof/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Socialproof\app\init.php:105
+Stack trace:
+#0 C:\laragon\www\Socialproof\index.php(20): require_once()
+#1 {main}
+  thrown in C:\laragon\www\Socialproof\app\init.php on line 105
+[11-Jul-2025 10:33:25 UTC] PHP Warning:  Undefined property: stdClass::$maintenance_is_enabled in C:\laragon\www\Socialproof\app\core\App.php on line 245
+[11-Jul-2025 10:33:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on false in C:\laragon\www\Socialproof\app\controllers\Index.php:37
+Stack trace:
+#0 [internal function]: Altum\Controllers\Index->index()
+#1 C:\laragon\www\Socialproof\app\core\App.php(293): call_user_func_array(Array, Array)
+#2 C:\laragon\www\Socialproof\index.php(22): Altum\App->__construct()
+#3 {main}
+  thrown in C:\laragon\www\Socialproof\app\controllers\Index.php on line 37
+[11-Jul-2025 10:33:50 UTC] PHP Warning:  Undefined property: stdClass::$maintenance_is_enabled in C:\laragon\www\Socialproof\app\core\App.php on line 245
+[11-Jul-2025 10:34:00 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[11-Jul-2025 10:34:00 UTC] PHP Warning:  Undefined property: stdClass::$maintenance_is_enabled in C:\laragon\www\Socialproof\app\core\App.php on line 245
+[11-Jul-2025 10:34:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on false in C:\laragon\www\Socialproof\app\controllers\Index.php:37
+Stack trace:
+#0 [internal function]: Altum\Controllers\Index->index()
+#1 C:\laragon\www\Socialproof\app\core\App.php(293): call_user_func_array(Array, Array)
+#2 C:\laragon\www\Socialproof\index.php(22): Altum\App->__construct()
+#3 {main}
+  thrown in C:\laragon\www\Socialproof\app\controllers\Index.php on line 37
+[11-Jul-2025 10:34:02 UTC] PHP Warning:  Undefined property: stdClass::$maintenance_is_enabled in C:\laragon\www\Socialproof\app\core\App.php on line 245
+[11-Jul-2025 10:34:02 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[11-Jul-2025 10:34:04 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[11-Jul-2025 10:34:04 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[11-Jul-2025 10:34:04 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[11-Jul-2025 10:34:04 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80

@@ -1,0 +1,27 @@
+[08-Jul-2025 21:52:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\socialproof\app\models\Settings.php:33
+Stack trace:
+#0 C:\xampp\htdocs\socialproof\app\core\Settings.php(26): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\socialproof\app\helpers\core.php(21): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\socialproof\app\core\Language.php(60): settings()
+#3 C:\xampp\htdocs\socialproof\app\core\App.php(38): Altum\Language::initialize()
+#4 C:\xampp\htdocs\socialproof\index.php(22): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\socialproof\app\models\Settings.php on line 33
+[08-Jul-2025 21:54:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\socialproof\app\models\Settings.php:33
+Stack trace:
+#0 C:\xampp\htdocs\socialproof\app\core\Settings.php(26): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\socialproof\app\helpers\core.php(21): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\socialproof\app\core\Language.php(60): settings()
+#3 C:\xampp\htdocs\socialproof\app\core\App.php(38): Altum\Language::initialize()
+#4 C:\xampp\htdocs\socialproof\index.php(22): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\socialproof\app\models\Settings.php on line 33
+[08-Jul-2025 21:55:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in C:\xampp\htdocs\socialproof\app\models\Settings.php:33
+Stack trace:
+#0 C:\xampp\htdocs\socialproof\app\core\Settings.php(26): Altum\Models\Settings->get()
+#1 C:\xampp\htdocs\socialproof\app\helpers\core.php(21): Altum\Settings::initialize()
+#2 C:\xampp\htdocs\socialproof\app\core\Language.php(60): settings()
+#3 C:\xampp\htdocs\socialproof\app\core\App.php(38): Altum\Language::initialize()
+#4 C:\xampp\htdocs\socialproof\index.php(22): Altum\App->__construct()
+#5 {main}
+  thrown in C:\xampp\htdocs\socialproof\app\models\Settings.php on line 33
