@@ -1,13 +1,13 @@
 <?php
 
 /* Enabling debug mode is only for debugging / development purposes. */
-const DEBUG = 1;
+const DEBUG = 0;
 
 /* Enabling mysql debug mode is only for debugging / development purposes. */
-const MYSQL_DEBUG = 1;
+const MYSQL_DEBUG = 0;
 
 /* Enabling the file logging will store errors that occur, in the uploads/logs/ folder */
-const LOGGING = 1;
+const LOGGING = 0;
 
 /* Enabling the cache will use file caching where implemented for better performance */
 const CACHE = 1;

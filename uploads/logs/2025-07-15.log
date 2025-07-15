@@ -1,0 +1,563 @@
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 71
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Attempt to read property "price" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$price in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Attempt to read property "description" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$description in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 74
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 82
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$email_reports_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 110
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\laragon\www\Socialproof\app\includes\simple_user_plan_settings.php on line 33
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 118
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 94
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:06:49 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:06:51 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:06:51 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:06:51 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:06:52 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[15-Jul-2025 17:06:53 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:06:53 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:06:57 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[15-Jul-2025 17:06:57 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:06:57 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 71
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Attempt to read property "price" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$price in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Attempt to read property "description" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$description in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 74
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 82
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$email_reports_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 110
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\laragon\www\Socialproof\app\includes\simple_user_plan_settings.php on line 33
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 118
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 94
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:13:27 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 71
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Attempt to read property "price" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$price in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Attempt to read property "description" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$description in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 74
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 82
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$email_reports_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 110
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\laragon\www\Socialproof\app\includes\simple_user_plan_settings.php on line 33
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 118
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 94
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:17:12 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 71
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Attempt to read property "price" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$price in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Attempt to read property "description" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$description in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 74
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 82
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$email_reports_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 110
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\laragon\www\Socialproof\app\includes\simple_user_plan_settings.php on line 33
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 118
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 94
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:17:26 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 71
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Attempt to read property "price" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$price in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Attempt to read property "description" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$description in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 74
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 82
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$email_reports_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 110
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\laragon\www\Socialproof\app\includes\simple_user_plan_settings.php on line 33
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 118
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 94
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:18:14 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 71
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Attempt to read property "price" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$price in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Attempt to read property "description" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$description in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 74
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 82
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$email_reports_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 110
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\laragon\www\Socialproof\app\includes\simple_user_plan_settings.php on line 33
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 118
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 94
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:20:30 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 71
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Attempt to read property "price" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$price in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Attempt to read property "description" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$description in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 74
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 82
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$email_reports_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 110
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\laragon\www\Socialproof\app\includes\simple_user_plan_settings.php on line 33
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 118
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 94
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:23:24 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 71
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Attempt to read property "price" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$price in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Attempt to read property "description" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$description in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 74
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 82
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$email_reports_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 110
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\laragon\www\Socialproof\app\includes\simple_user_plan_settings.php on line 33
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 118
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 94
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:23:33 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 71
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Attempt to read property "price" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$price in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Attempt to read property "description" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$description in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 74
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 82
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$email_reports_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 110
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\laragon\www\Socialproof\app\includes\simple_user_plan_settings.php on line 33
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 118
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 94
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:36:31 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 71
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 73
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Attempt to read property "price" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$price in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 84
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Attempt to read property "description" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$description in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 87
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_email_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_webhook_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_slack_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_discord_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_telegram_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 54
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$notification_handlers_microsoft_teams_limit in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 55
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 70
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 71
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$track_notifications_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 74
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 78
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 79
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$track_conversions_retention in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 82
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$email_reports_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 110
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$white_labeling_is_enabled in C:\laragon\www\Socialproof\app\includes\simple_user_plan_settings.php on line 33
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$custom_css_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\plans_plan_content.php on line 118
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$color in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 94
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Undefined property: stdClass::$translations in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Attempt to read property "english" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:38:35 UTC] PHP Warning:  Attempt to read property "name" on null in C:\laragon\www\Socialproof\themes\altum\views\partials\plans.php on line 266
+[15-Jul-2025 17:38:36 UTC] PHP Warning:  Undefined property: stdClass::$x_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:38:36 UTC] PHP Warning:  Undefined property: stdClass::$google_chat_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:38:36 UTC] PHP Warning:  Undefined property: stdClass::$internal_notification_is_enabled in C:\laragon\www\Socialproof\app\includes\notification_handlers.php on line 22
+[15-Jul-2025 17:38:36 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\partials\footer.php on line 108
+[15-Jul-2025 17:38:36 UTC] PHP Warning:  Undefined property: stdClass::$admin_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
+[15-Jul-2025 17:38:36 UTC] PHP Warning:  Undefined property: stdClass::$user_spotlight_is_enabled in C:\laragon\www\Socialproof\themes\altum\views\wrapper.php on line 80
