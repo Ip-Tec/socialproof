@@ -39,7 +39,7 @@
     <div class="form-group">
         <label for="default_timezone"><i class="fas fa-fw fa-sm fa-atlas text-muted mr-1"></i> <?= l('admin_settings.main.default_timezone') ?></label>
         <select id="default_timezone" name="default_timezone" class="custom-select">
-            <?php foreach(DateTimeZone::listIdentifiers() as $timezone) echo '<option value="' . $timezone . '" ' . (settings()->main->default_timezone == $timezone ? 'selected="selected"' : null) . '>' . $timezone . '</option>' ?>
+            <?php foreach (DateTimeZone::listIdentifiers() as $timezone) echo '<option value="' . $timezone . '" ' . (settings()->main->default_timezone == $timezone ? 'selected="selected"' : null) . '>' . $timezone . '</option>' ?>
         </select>
         <small class="form-text text-muted"><?= l('admin_settings.main.default_timezone_help') ?></small>
     </div>
@@ -47,7 +47,7 @@
     <div class="form-group">
         <label for="default_theme_style"><i class="fas fa-fw fa-sm fa-fill-drip text-muted mr-1"></i> <?= l('admin_settings.main.default_theme_style') ?></label>
         <select id="default_theme_style" name="default_theme_style" class="custom-select">
-            <?php foreach(\Altum\ThemeStyle::$themes as $key => $value) echo '<option value="' . $key . '" ' . (settings()->main->default_theme_style == $key ? 'selected="selected"' : null) . '>' . $key . '</option>' ?>
+            <?php foreach (\Altum\ThemeStyle::$themes as $key => $value) echo '<option value="' . $key . '" ' . (settings()->main->default_theme_style == $key ? 'selected="selected"' : null) . '>' . $key . '</option>' ?>
         </select>
     </div>
 
@@ -57,14 +57,14 @@
             <a href="<?= url('admin/languages') ?>" target="_blank" class="small mb-2"><i class="fas fa-fw fa-sm fa-plus mr-1"></i> <?= l('global.create') ?></a>
         </div>
         <select id="default_language" name="default_language" class="custom-select">
-            <?php foreach(\Altum\Language::$active_languages as $language_name => $language_code) echo '<option value="' . $language_name . '" ' . (settings()->main->default_language == $language_name ? 'selected="selected"' : null) . '>' . $language_name . ' - ' . $language_code . '</option>' ?>
+            <?php foreach (\Altum\Language::$active_languages as $language_name => $language_code) echo '<option value="' . $language_name . '" ' . (settings()->main->default_language == $language_name ? 'selected="selected"' : null) . '>' . $language_name . ' - ' . $language_code . '</option>' ?>
         </select>
     </div>
 
     <div class="form-group">
         <label for="default_results_per_page"><i class="fas fa-fw fa-sm fa-list-ol text-muted mr-1"></i> <?= l('admin_settings.main.default_results_per_page') ?></label>
         <select id="default_results_per_page" name="default_results_per_page" class="custom-select">
-            <?php foreach([10, 25, 50, 100, 250, 500, 1000] as $key): ?>
+            <?php foreach ([10, 25, 50, 100, 250, 500, 1000] as $key): ?>
                 <option value="<?= $key ?>" <?= settings()->main->default_results_per_page == $key ? 'selected="selected"' : null ?>><?= $key ?></option>
             <?php endforeach ?>
         </select>
@@ -84,71 +84,71 @@
 
     <div class="collapse" id="app_settings_container">
         <div class="form-group custom-control custom-switch">
-            <input id="admin_spotlight_is_enabled" name="admin_spotlight_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->admin_spotlight_is_enabled ? 'checked="checked"' : null?>>
+            <input id="admin_spotlight_is_enabled" name="admin_spotlight_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->admin_spotlight_is_enabled ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="admin_spotlight_is_enabled"><i class="fas fa-fw fa-sm fa-search text-muted mr-1"></i> <?= l('admin_settings.main.admin_spotlight_is_enabled') ?></label>
             <small class="form-text text-muted"><?= l('admin_settings.main.admin_spotlight_is_enabled_help') ?></small>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="user_spotlight_is_enabled" name="user_spotlight_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->user_spotlight_is_enabled ? 'checked="checked"' : null?>>
+            <input id="user_spotlight_is_enabled" name="user_spotlight_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->user_spotlight_is_enabled ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="user_spotlight_is_enabled"><i class="fas fa-fw fa-sm fa-search text-muted mr-1"></i> <?= l('admin_settings.main.user_spotlight_is_enabled') ?></label>
             <small class="form-text text-muted"><?= l('admin_settings.main.user_spotlight_is_enabled_help') ?></small>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="white_labeling_is_enabled" name="white_labeling_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->white_labeling_is_enabled ? 'checked="checked"' : null?>>
+            <input id="white_labeling_is_enabled" name="white_labeling_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->white_labeling_is_enabled ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="white_labeling_is_enabled"><i class="fas fa-fw fa-sm fa-cube text-muted mr-1"></i> <?= l('admin_settings.main.white_labeling_is_enabled') ?></label>
             <small class="form-text text-muted"><?= l('admin_settings.main.white_labeling_is_enabled_help') ?></small>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="theme_style_change_is_enabled" name="theme_style_change_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->theme_style_change_is_enabled ? 'checked="checked"' : null?>>
+            <input id="theme_style_change_is_enabled" name="theme_style_change_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->theme_style_change_is_enabled ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="theme_style_change_is_enabled"><i class="fas fa-fw fa-sm fa-object-ungroup text-muted mr-1"></i> <?= l('admin_settings.main.theme_style_change_is_enabled') ?></label>
             <small class="form-text text-muted"><?= l('admin_settings.main.theme_style_change_is_enabled_help') ?></small>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="auto_language_detection_is_enabled" name="auto_language_detection_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->auto_language_detection_is_enabled ? 'checked="checked"' : null?>>
+            <input id="auto_language_detection_is_enabled" name="auto_language_detection_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->auto_language_detection_is_enabled ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="auto_language_detection_is_enabled"><i class="fas fa-fw fa-sm fa-language text-muted mr-1"></i> <?= l('admin_settings.main.auto_language_detection_is_enabled') ?></label>
             <small class="form-text text-muted"><?= l('admin_settings.main.auto_language_detection_is_enabled_help') ?></small>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="api_is_enabled" name="api_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->api_is_enabled ? 'checked="checked"' : null?>>
+            <input id="api_is_enabled" name="api_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->api_is_enabled ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="api_is_enabled"><i class="fas fa-fw fa-sm fa-code text-muted mr-1"></i> <?= l('admin_settings.main.api_is_enabled') ?></label>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="broadcasts_statistics_is_enabled" name="broadcasts_statistics_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->broadcasts_statistics_is_enabled ? 'checked="checked"' : null?>>
+            <input id="broadcasts_statistics_is_enabled" name="broadcasts_statistics_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->broadcasts_statistics_is_enabled ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="broadcasts_statistics_is_enabled"><i class="fas fa-fw fa-sm fa-star text-muted mr-1"></i> <?= l('admin_settings.main.broadcasts_statistics_is_enabled') ?></label>
             <small class="form-text text-muted"><?= l('admin_settings.main.broadcasts_statistics_is_enabled_help') ?></small>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="breadcrumbs_is_enabled" name="breadcrumbs_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->breadcrumbs_is_enabled ? 'checked="checked"' : null?>>
+            <input id="breadcrumbs_is_enabled" name="breadcrumbs_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->breadcrumbs_is_enabled ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="breadcrumbs_is_enabled"><i class="fas fa-fw fa-sm fa-shoe-prints text-muted mr-1"></i> <?= l('admin_settings.main.breadcrumbs_is_enabled') ?></label>
             <small class="form-text text-muted"><?= l('admin_settings.main.breadcrumbs_is_enabled_help') ?></small>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="display_pagination_when_no_pages" name="display_pagination_when_no_pages" type="checkbox" class="custom-control-input" <?= settings()->main->display_pagination_when_no_pages ? 'checked="checked"' : null?>>
+            <input id="display_pagination_when_no_pages" name="display_pagination_when_no_pages" type="checkbox" class="custom-control-input" <?= settings()->main->display_pagination_when_no_pages ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="display_pagination_when_no_pages"><i class="fas fa-fw fa-sm fa-circle text-muted mr-1"></i> <?= l('admin_settings.main.display_pagination_when_no_pages') ?></label>
             <small class="form-text text-muted"><?= sprintf(l('admin_settings.main.display_pagination_when_no_pages_help'), SITE_URL) ?></small>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="se_indexing" name="se_indexing" type="checkbox" class="custom-control-input" <?= settings()->main->se_indexing ? 'checked="checked"' : null?>>
+            <input id="se_indexing" name="se_indexing" type="checkbox" class="custom-control-input" <?= settings()->main->se_indexing ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="se_indexing"><i class="fab fa-fw fa-sm fa-searchengin text-muted mr-1"></i> <?= l('admin_settings.main.se_indexing') ?></label>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="ai_scraping_is_allowed" name="ai_scraping_is_allowed" type="checkbox" class="custom-control-input" <?= settings()->main->ai_scraping_is_allowed ? 'checked="checked"' : null?>>
+            <input id="ai_scraping_is_allowed" name="ai_scraping_is_allowed" type="checkbox" class="custom-control-input" <?= settings()->main->ai_scraping_is_allowed ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="ai_scraping_is_allowed"><i class="fas fa-fw fa-sm fa-spider text-muted mr-1"></i> <?= l('admin_settings.main.ai_scraping_is_allowed') ?></label>
             <small class="form-text text-muted"><?= l('admin_settings.main.ai_scraping_is_allowed_help') ?></small>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="force_https_is_enabled" name="force_https_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->force_https_is_enabled ? 'checked="checked"' : null?>>
+            <input id="force_https_is_enabled" name="force_https_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->force_https_is_enabled ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="force_https_is_enabled"><i class="fas fa-fw fa-sm fa-lock text-muted mr-1"></i> <?= l('admin_settings.main.force_https_is_enabled') ?></label>
             <small class="form-text text-muted"><?= sprintf(l('admin_settings.main.force_https_is_enabled_help'), SITE_URL) ?></small>
         </div>
@@ -166,22 +166,22 @@
 
     <div class="collapse" id="index_settings_container">
         <div class="form-group custom-control custom-switch">
-            <input id="display_index_plans" name="display_index_plans" type="checkbox" class="custom-control-input" <?= settings()->main->display_index_plans ? 'checked="checked"' : null?>>
+            <input id="display_index_plans" name="display_index_plans" type="checkbox" class="custom-control-input" <?= settings()->main->display_index_plans ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="display_index_plans"><i class="fas fa-fw fa-sm fa-box-open text-muted mr-1"></i> <?= l('admin_settings.main.display_index_plans') ?></label>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="display_index_testimonials" name="display_index_testimonials" type="checkbox" class="custom-control-input" <?= settings()->main->display_index_testimonials ? 'checked="checked"' : null?>>
+            <input id="display_index_testimonials" name="display_index_testimonials" type="checkbox" class="custom-control-input" <?= settings()->main->display_index_testimonials ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="display_index_testimonials"><i class="fas fa-fw fa-sm fa-users text-muted mr-1"></i> <?= l('admin_settings.main.display_index_testimonials') ?></label>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="display_index_faq" name="display_index_faq" type="checkbox" class="custom-control-input" <?= settings()->main->display_index_faq ? 'checked="checked"' : null?>>
+            <input id="display_index_faq" name="display_index_faq" type="checkbox" class="custom-control-input" <?= settings()->main->display_index_faq ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="display_index_faq"><i class="fas fa-fw fa-sm fa-circle-question text-muted mr-1"></i> <?= l('admin_settings.main.display_index_faq') ?></label>
         </div>
 
         <div class="form-group custom-control custom-switch">
-            <input id="display_index_latest_blog_posts" name="display_index_latest_blog_posts" type="checkbox" class="custom-control-input" <?= settings()->main->display_index_latest_blog_posts ? 'checked="checked"' : null?>>
+            <input id="display_index_latest_blog_posts" name="display_index_latest_blog_posts" type="checkbox" class="custom-control-input" <?= settings()->main->display_index_latest_blog_posts ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="display_index_latest_blog_posts"><i class="fas fa-fw fa-sm fa-rss text-muted mr-1"></i> <?= l('admin_settings.main.display_index_latest_blog_posts') ?></label>
         </div>
 
@@ -198,7 +198,7 @@
 
     <div class="collapse" id="maintenance_settings_container">
         <div class="form-group custom-control custom-switch">
-            <input id="maintenance_is_enabled" name="maintenance_is_enabled" type="checkbox" class="custom-control-input" <?= settings()->main->maintenance_is_enabled ? 'checked="checked"' : null?>>
+            <input id="maintenance_is_enabled" name="maintenance_is_enabled" type="checkbox" class="custom-control-input" <?= (isset(settings()->main->maintenance_is_enabled) && settings()->main->maintenance_is_enabled) ? 'checked="checked"' : null ?>>
             <label class="custom-control-label" for="maintenance_is_enabled"><?= l('admin_settings.main.maintenance_is_enabled') ?></label>
             <small class="form-text text-muted"><?= l('admin_settings.main.maintenance_is_enabled_help') ?></small>
         </div>
@@ -276,7 +276,7 @@
         <div class="form-group">
             <label for="openai_model"><i class="fas fa-fw fa-sm fa-robot text-muted mr-1"></i> <?= l('admin_settings.main.openai_model') ?></label>
             <select id="openai_model" name="openai_model" class="custom-select">
-                <?php foreach(['gpt-4o', 'gpt-4o-mini', 'o1', 'o1-mini', 'o3-mini', 'gpt-4', 'gpt-4-turbo', 'gpt-3.5-turbo',] as $model): ?>
+                <?php foreach (['gpt-4o', 'gpt-4o-mini', 'o1', 'o1-mini', 'o3-mini', 'gpt-4', 'gpt-4-turbo', 'gpt-3.5-turbo',] as $model): ?>
                     <option value="<?= $model ?>" <?= settings()->main->openai_model == $model ? 'selected="selected"' : null ?>><?= $model ?></option>
                 <?php endforeach ?>
             </select>

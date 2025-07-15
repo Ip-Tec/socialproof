@@ -18,11 +18,13 @@ namespace Altum\controllers;
 
 defined('ALTUMCODE') || die();
 
-class Maintenance extends Controller {
+class Maintenance extends Controller
+{
 
-    public function index() {
+    public function index()
+    {
 
-        if(!settings()->main->maintenance_is_enabled) {
+        if (!(isset(settings()->main->maintenance_is_enabled) && settings()->main->maintenance_is_enabled)) {
             redirect();
         }
 
@@ -35,7 +37,5 @@ class Maintenance extends Controller {
         $view = new \Altum\View('maintenance/index', (array) $this);
 
         $this->add_view_content('content', $view->run($data));
-
     }
-
 }
